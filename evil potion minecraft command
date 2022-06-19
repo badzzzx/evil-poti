@@ -1,0 +1,4 @@
+give @p splash_potion{Potion:"minecraft:water",CustomPotionEffects:[{Id:17,Amplifier:127,Duration:90000,ShowParticles:0b},{Id:27,Amplifier:127,Duration:90000,ShowParticles:0b},{Id:25,Amplifier:127,Duration:90000,ShowParticles:0b},{Id:18,Amplifier:127,Duration:90000,ShowParticles:0b},{Id:9,Amplifier:127,Duration:90000,ShowParticles:0b},{Id:19,Amplifier:127,Duration:90000,ShowParticles:0b},{Id:4,Amplifier:127,Duration:90000,ShowParticles:0b},{Id:2,Amplifier:127,Duration:90000,ShowParticles:0b},{Id:7,Amplifier:28,Duration:90000,ShowParticles:0b},
+{Id:33,Amplifier:127,Duration:90000,ShowParticles:0b},
+{Id:15,Amplifier:127,Duration:90000,ShowParticles:0b},
+{Id:20,Amplifier:127,Duration:90000,ShowParticles:0b}],CustomPotionColor:0,display:{Name:'[{"text":"EVIL_POTION","italic":false,"color":"#5e0d0d","bold":true}]',Lore:['[{"text":"peligro","italic":false,"color":"red","underlined":false}]']}} 1
